@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="json-20240303">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-j-9.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JavaFX/javafx-sdk-21.0.10/lib/javafx-swt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
